@@ -1,7 +1,3 @@
-Sure, here's a description you can add to your README on GitHub:
-
----
-
 ## Random Password Generator
 
 This Python script generates a random password based on user input and certain criteria. Below is a brief overview of how it works:
